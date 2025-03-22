@@ -93,11 +93,12 @@ footer {
         <!-- Adicione links ou imagens de seus projetos --> 
     </section>
     <img src="" alt="">
-![NDIS Plan Meeting guide, Digital downloads](https://github.com/user-attachments/assets/c033d386-f693-423e-8619-753be4f6867a)
+
 
     <footer>
         <p>Contato: @email.com</p>
     </footer>
+    <a href="https://github.com/Alexander148662/pagina-principal">Pagina principal</a>
 
 </body>
 </html>
