@@ -13,6 +13,9 @@
     padding: 0;
 }
 
+
+ 
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -20,7 +23,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #50ce54;
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -64,6 +67,21 @@ footer {
     }
 }
 
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #071408;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 15px;
+  font-size: 16px;
+}
+
+.botao:hover {
+  background-color: #45a049;
+}
+
 
 </style>
 
@@ -81,7 +99,8 @@ footer {
             </ul>
         </nav>
     </header>
-
+    <a href="pagina principal.html" class="button">Pagina principal</a>
+  
     <section id="sobre">
         <h2>Sobre Mim</h2>
         <p>Olá! Eu sou um estudante de Informática de Gestão...</p>
@@ -92,13 +111,11 @@ footer {
         <p>Aqui estão alguns dos meus projetos:</p>
         <!-- Adicione links ou imagens de seus projetos --> 
     </section>
-    <img src="" alt="">
-
+    <img src="NDIS Plan Meeting guide, Digital downloads.jpeg" alt="">
 
     <footer>
         <p>Contato: @email.com</p>
     </footer>
-    <a href="https://github.com/Alexander148662/pagina-principal">Pagina principal</a>
-
+   
 </body>
 </html>
